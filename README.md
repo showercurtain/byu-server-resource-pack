@@ -1,0 +1,1 @@
+# byu-server-resource-pack
