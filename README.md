@@ -4,11 +4,19 @@ The server resource pack for the BYU Minecraft Club's server
 
 ## Included packs:
 
- - [Saiko's Lightsaber Pack](https://modrinth.com/resourcepack/saiko-lightsaber-pack)
+- [Saiko's Lightsaber Pack](https://modrinth.com/resourcepack/saiko-lightsaber-pack)
+- [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs)
+    - Cloud Fog Fix
+    - Nicer Fast Leaves
+    - Spinning Burning Skull Painting
+    - 3D Fungi
+    - Twinkling Stars
 
 ### Other additions:
 
+ - Magic shop tokens look like ... not prismarine
  - Bedrock breaking items look like sticks of dynamite
+ - Map tokens have a fancy new animated texture
 
 ## Important
 
