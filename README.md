@@ -8,7 +8,6 @@ The server resource pack for the BYU Minecraft Club's server
 - [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs)
     - Cloud Fog Fix
     - Nicer Fast Leaves
-    - 3D Fungi
     - Twinkling Stars
 
 ### Other additions:
