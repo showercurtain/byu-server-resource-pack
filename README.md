@@ -8,7 +8,6 @@ The server resource pack for the BYU Minecraft Club's server
 - [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs)
     - Cloud Fog Fix
     - Nicer Fast Leaves
-    - Spinning Burning Skull Painting
     - 3D Fungi
     - Twinkling Stars
 
@@ -17,6 +16,13 @@ The server resource pack for the BYU Minecraft Club's server
  - Magic shop tokens look like ... not prismarine
  - Bedrock breaking items look like sticks of dynamite
  - Map tokens have a fancy new animated texture
+
+## Future additions
+
+[ ] Lightsaber scissors
+[ ] Balloon shoes (maybe)
+[ ] Magic book texture
+[ ] Starlight texture (maybe)
 
 ## Important
 
