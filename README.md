@@ -18,10 +18,10 @@ The server resource pack for the BYU Minecraft Club's server
 
 ## Future additions
 
-[ ] Lightsaber scissors
-[ ] Balloon shoes (maybe)
-[ ] Magic book texture
-[ ] Starlight texture (maybe)
+- Lightsaber scissors
+- Balloon shoes (maybe)
+- Magic book texture
+- Starlight texture (maybe)
 
 ## Important
 
